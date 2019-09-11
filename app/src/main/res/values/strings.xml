@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Just Java</string>
-    <string name="price_tag">PRICE</string>
+    <string name="price_tag">ORDER SUMMARY</string>
+    <string name="whiipped_cream_tag">Whipped Cream</string>
+    <string name="toppings_tag">Toppings</string>
+    <string name="chocolate_tag">Chocolate</string>
+    <string name="name_tag">Name</string>
+    <string name="low_coffee">Must order at least 1 coffee</string>
 </resources>
